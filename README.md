@@ -38,3 +38,5 @@ pl.:<br/>
   `E 1 0 0 0 -`<br/>
   
   B játékos nyerte a versenyt, 7 ponttal.
+  
+  ## 3. Ki lenne eredményesebb játékos, aki: 40%-ban nyer, 30%-ban döntetlenezik, 30%-ban veszít, vagy aki: 25%-ban nyer, 60%-ban döntetlenezik, 15%-ban veszít. 
