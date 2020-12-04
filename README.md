@@ -29,7 +29,7 @@ Magyarázat:
    
 ## 2. Írjuk ki a konzolba, ki nyerte a versenyt, és hány pontot ért el:
 
-pl.:
+pl.:<br/>
   `- A B C D E`<br/>
   `A - 1 1 2 1`<br/>
   `B 1 - 2 2 2`<br/>
