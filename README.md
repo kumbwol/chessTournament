@@ -10,7 +10,7 @@ Példa a verseny végső állására:
  `B 0 - 1 2 0`<br/>
  `C 0 1 - 1 2`<br/>
  `D 1 0 1 - 2`<br/>
- `E 1 2 0 0 -`<br/>
+ `E 2 2 0 0 -`<br/>
 
 Magyarázat:
 
@@ -18,7 +18,7 @@ Magyarázat:
  2. "A" játékos legyőzi "B" játékost, ezzel szerez 2 pontot. 
  3. "A" játékos legyőzi "C" játékost, ezzel szerez 2 pontot. 
  4. "A" játékos döntetlenzik "D" játékossal, ezzel szerez 1 pontot. 
- 5. "A" játékos veszít "D" játékossal szemben, ezzel szerez 0 pontot.
+ 5. "A" játékos veszít "E" játékossal szemben, ezzel szerez 0 pontot.
 
 
 ## 1. Generáljunk le egy versenyt, feltételzve, hogy egy parti kimenetele véletlenszerű. Jelenítsük meg a konzolban.
